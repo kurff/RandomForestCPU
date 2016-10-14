@@ -1,0 +1,10 @@
+max_depth 60
+num_class 17
+dimension_feature 10000
+max_probe_offset 100
+threshold_entropy 0.0001
+num_samples_node 100
+positive_image_path  E:\Hand\HandDepthLabelGeneration\depth
+label_path E:\Hand\HandDepthLabelGeneration\part
+map_path map.txt
+save_tree_path tree_hand_12_22.txt
